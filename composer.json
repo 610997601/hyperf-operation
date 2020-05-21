@@ -1,10 +1,10 @@
 {
-  "name": "phper666/hyperf-server-command",
+  "name": "kkbtest/hyperf-operation",
   "license": "MIT",
   "authors": [
     {
-      "name": "liyuzhao",
-      "email": "562405704@qq.com"
+      "name": "kkb",
+      "email": "kkb@qq.com"
     }
   ],
   "require": {
